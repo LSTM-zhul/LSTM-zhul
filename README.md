@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RAG-zhul/RAG-zhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
