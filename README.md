@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ☕ If you cannot be a poet, be the poem. 
+# 🤔 Nothing is anything. 
 
 <img src="https://picx.zhimg.com/80/v2-7255b8508499b8c940e42f78b08ba0fb_1440w.jpeg" width="100%" style="border-radius: .5em;"/>
 
-## 📬 Contact
+## 📬 Touch me
 
 <p align="center">
   <a href="mailto:2870783879@qq.com">☎️ Email</a> | 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://space.bilibili.com//436230571" target="_blank" rel="noopener noreferrer">📺 BiliBili</a>
 </p>
 
-## 🖥️ Programming Languages
+## 🖥️ Programming Languages to get
 
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
