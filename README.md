@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ☕ If you cannot be a poet, be the poem. 
+
+<img src="https://picx.zhimg.com/80/v2-7255b8508499b8c940e42f78b08ba0fb_1440w.jpeg" width="100%" style="border-radius: .5em;"/>
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:zhelonghuang@qq.com">☎️ Email</a> | 
+  <a href="https://kirigaya.cn/home" target="_blank" rel="noopener noreferrer">💻 Website</a> | 
+  <a href="https://www.zhihu.com/people/can-meng-zhong-de-che-xian/posts" target="_blank" rel="noopener noreferrer">📖 Zhihu</a> | 
+  <a href="https://space.bilibili.com/434469188" target="_blank" rel="noopener noreferrer">📺 BiliBili</a>
+</p>
+
+## 🖥️ Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/verilog-purple?style=for-the-badge&logo=vhdl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+
+<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+  <img height="300px" src="self.jpg" style="border-radius: .5em;" />
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
+</div>
+
+<br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSTM-Kirigaya&theme=tokyonight" />
+
