@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSTM-Kirigaya&theme=tokyonight" />
 </div> -->
 
-# 尝试摆脱现状中...
+# 故障修复中...
 <br>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAG-zhul&theme=tokyonight" />
