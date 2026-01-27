@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🤔 Nothing is anything. 
+# 26能发顶刊吗？ 
 
 <img src="https://tse3.mm.bing.net/th/id/OIP.lxfjNMT_Q5eHCKB37M6miAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" style="border-radius: .5em;"/>
 
